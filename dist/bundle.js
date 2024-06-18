@@ -1,0 +1,1 @@
+(()=>{"use strict";(new class{constructor(){this.size=4}init(){const t=document.querySelector(".board");for(i=0;i<this.size*this.size;i++){const i=document.createElement("div");i.classList.add("block"),t.appendChild(i)}}}).init()})();
